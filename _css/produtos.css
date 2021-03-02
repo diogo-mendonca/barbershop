@@ -12,3 +12,10 @@ table td {
 .margem0 {
     text-align: left;
 }
+
+.margem1 {
+    text-align: center;
+    font-size: 30px;
+    color: #DC143C;
+    padding: 25px;
+}

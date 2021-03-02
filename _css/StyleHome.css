@@ -20,7 +20,7 @@ nav li {
 nav a {
     color: #000408;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     text-transform: uppercase;
     text-decoration: none;
 }
@@ -31,8 +31,9 @@ nav a:hover {
 }
 
 .textohome {
-    text-align: justify;
-    font-size: 20px;
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
 }
 
 div h3 {
