@@ -1,0 +1,14 @@
+table {
+    padding: 5px;
+    border-spacing: 1px;
+    text-align: center;
+}
+
+table td {
+    font-size: 20px;
+    padding: 0 0 0 0;
+}
+
+.margem0 {
+    text-align: left;
+}
